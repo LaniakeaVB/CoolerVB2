@@ -1,1 +1,1 @@
-# CoolerVB2
+# CoolerVB
